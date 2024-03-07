@@ -1,0 +1,20 @@
+{
+  "config": {
+    "autoloader-suffix": "WaModule2"
+  },
+  "name": "etibarrustam/wa-module2",
+  "description": "Test descx",
+  "homepage": "https://test.com",
+  "keywords": [
+    "accounting",
+    "invoice",
+    "akaunting",
+    "paypal"
+  ],
+  "license": "GPL-3.0+",
+  "scripts": {
+    "test": [
+      "composer install --prefer-dist --no-interaction --no-scripts --no-suggest --no-progress --no-ansi"
+    ]
+  }
+}
